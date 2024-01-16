@@ -104,10 +104,10 @@ chalk@5.3.0, chalk@^5.0.0, chalk@^5.3.0:
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.3.0.tgz#67c20a7ebef70e7f3970a01f90fa210cb6860385"
   integrity sha512-dLitG79d+GV1Nb/VYcCDFivJeK1hiukt9QjRNVOsUtTy1rR1YJsmpGGTZ3qJos+uw7WmWF4wUwBd9jxjocFC2w==
 
-cld@^2.9.0:
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/cld/-/cld-2.9.0.tgz#8a4cec2541ac54fa45cf3aa3f13e561fed913fe7"
-  integrity sha512-eYK2WvupoNCCHnDjWiuEcpysqTsqQ8mZpAvFA6aFIQOBz0W77Ak+yRvvcf/Cvx3afcb86CMUBZ4W7b8IoKRuOg==
+cld@^2.9.1:
+  version "2.9.1"
+  resolved "https://registry.yarnpkg.com/cld/-/cld-2.9.1.tgz#0c6685672d9f4612dfeb75eabfdd17bf282a87a6"
+  integrity sha512-GfNd5TM2He+pCsEhJWBgnLAoB0pnn6jCoYom7pzv04wpF2d54C0nasHZ8BW59KijwnVRmEBcI+imRnVbj5fVjw==
   dependencies:
     glob "7"
     node-addon-api "*"
